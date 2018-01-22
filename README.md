@@ -13,4 +13,6 @@ A simple RPG game,  with basic function including:
   
 Storyline to be added...
 
-You can view some of the functions by downloading the game or check out the screenshot folder!
+You can view some of the functions by downloading the game here:https://github.com/JiangTianXiang/2DRPG/tree/master/MTE100
+
+or check out the screenshots here:https://github.com/JiangTianXiang/2DRPG/tree/master/ScreenShot
